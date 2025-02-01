@@ -1,8 +1,13 @@
 # 🎯 Bow and Balloons Retro Remix🎈
 A 2D Unity game prototype blending retro and modern aesthetics!
 
+![Logo](logo2.png)
+
 ## 🌟 Overview
 **Bow and Balloons** is a low-level prototype created to explore 2D game development in Unity. The game features a world split between two eras, showcasing a clash of classic and modern visuals. Inspired by a nostalgic bow-and-arrow PC game from childhood, this project brings the old-school fun into a fresh, stylized experience.
+
+![GameScreen](logo2.png)
+
 
 ## 🎮 Features
 - **2D Sprites & Prefab Painter** – Used to craft levels and bring the world to life.
@@ -33,3 +38,5 @@ A 2D Unity game prototype blending retro and modern aesthetics!
 
 🎨 Credits
 This project is a passion-driven learning experience, inspired by childhood memories of classic bow-and-arrow games.
+
+![InspirationGame](inspiration.png)
